@@ -1,26 +1,22 @@
 <!-- social media connecting shield -->
 
-[![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
 # JavaScript Client Side Form Validation
 
-Hello 👋, I'm `Samiur Rahman Mukul` at this repository i will be build `Client Side Form Validation Using JavaScript`. Specially i will be build `Username, Email & Password` validating at registration form. So that let's connected with me and explore something new. Thanks
+Hello 👋, I'm `Shubham Singh` at this repository i will be build `Client Side Form Validation Using JavaScript`. Specially i will be build `Username, Email & Password` validating at registration form. So that let's connected with me and explore something new. Thanks
 
 |  #  | Projects                                                                                                  | Live Preview                                                                                |
 | :-: | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 01  | [JavaScript Form Validation](https://github.com/SamiurRahmanMukul/JavaScript-Client-Side-Form-Validation) | [👉 Click Here](https://samiurrahmanmukul.github.io/JavaScript-Client-Side-Form-Validation) |
+| 01  | [JavaScript Form Validation](https://shiva7830.github.io/stack_fusion_from.github.io/) | [👉 Click Here](https://github.com/shiva7830/stack_fusion_from.github.io) |
 
 <!-- my social media links -->
 
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+[instagram-url]: https://www.instagram.com/shubham_chaudhary_4
+[linkedin-url]: https://www.linkedin.com/in/shubham-singh-2a2ba6235/
+[github-url]: https://github.com/shiva7830
 
 <!-- shield icon links -->
 
