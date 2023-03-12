@@ -10,7 +10,7 @@ Hello 👋, I'm `Shubham Singh` at this repository i will be build `Client Side 
 
 |  #  | Projects                                                                                                  | Live Preview                                                                                |
 | :-: | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 01  | [JavaScript Form Validation](https://shiva7830.github.io/stack_fusion_from.github.io/) | [👉 Click Here](https://github.com/shiva7830/stack_fusion_from.github.io) |
+| 01  | [JavaScript Form Validation]([](https://github.com/shiva7830/stack_fusion_from.github.io)) | [👉 Click Here](https://shiva7830.github.io/stack_fusion_from.github.io/) |
 
 <!-- my social media links -->
 
